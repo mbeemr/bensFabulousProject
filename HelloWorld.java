@@ -5,7 +5,8 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World.\nThis is version:"+version+"\nNow With Features:\n"+featureList);
+	// Maria was here too.  I only want to say hi to the children.
+        System.out.println("Hello, Children!\nThis is version:"+version+"\nNow With Features:\n"+featureList);
     }
 
 }
